@@ -1,6 +1,4 @@
-package minsupgsp;
-
-import java.util.Comparator;
+package com.thomas.datamining;
 
 /**
  * Created by Thomas on 25-09-2015.

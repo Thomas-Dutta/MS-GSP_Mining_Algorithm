@@ -1,4 +1,4 @@
-package minsupgsp;
+package com.thomas.datamining;
 /**
  * Created by Thomas Dutta on 19-09-2015.
  */

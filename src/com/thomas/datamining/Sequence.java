@@ -1,4 +1,4 @@
-package minsupgsp;
+package com.thomas.datamining;
 
 import java.util.ArrayList;
 

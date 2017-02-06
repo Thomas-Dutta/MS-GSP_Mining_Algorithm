@@ -1,8 +1,7 @@
-package minsupgsp;
+package com.thomas.datamining;
 
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Map;
 
 
 /**
